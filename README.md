@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sathish
 - 👀 I’m interested in Data Science. 
-- 🌱 I’m currently working on natural language processing terrorism datasets and building a risk classification system at Nanyang Technological university.
+- 🌱 I’m currently working on natural language processing and building a classification system at Nanyang Technological university.
 
 I frequently post my attempts in codebasics and freecodecamp courses. My repositories include:  
 
