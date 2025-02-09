@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Sathish
 - 👀 I’m an AI Engineer. 
-- 🌱 I’m currently working on natural language processing and building a classification system at Nanyang Technological University.
+- 🌱 I’m currently working on natural language processing at Nanyang Technological University.
 
 I frequently post my attempts in codebasics and freecodecamp courses. My repositories include:  
 
-langchain, classification, regression, dimension reduction, clustering, natural language processing, computer vision, reinforcement learning with q learning, text generation, bayesian, hidden markov, data visualisation, python fundamentals.
+Recommendation system, langchain, classification, regression, dimension reduction, clustering, natural language processing, computer vision, reinforcement learning with q learning, text generation, bayesian, hidden markov, data visualisation, python fundamentals.
 
 Thanks for checking out my page!
 
