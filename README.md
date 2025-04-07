@@ -4,7 +4,7 @@
 
 I frequently post my attempts in codebasics and freecodecamp courses. My repositories include:  
 
-Recommendation system, langchain, classification, regression, dimension reduction, clustering, natural language processing, computer vision, reinforcement learning with q learning, text generation, bayesian, hidden markov, data visualisation, python fundamentals.
+Time-series, recommendation system, langchain, classification, regression, dimension reduction, clustering, natural language processing, computer vision, reinforcement learning with q learning, text generation, bayesian, hidden markov, data visualisation & python fundamentals.
 
 Thanks for checking out my page!
 
