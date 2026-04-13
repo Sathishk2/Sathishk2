@@ -2,7 +2,7 @@
 - 👀 I’m an AI Engineer. 
 - 🌱 I’m currently working on natural language processing at Nanyang Technological University.
 
-I frequently post my attempts in codebasics, freecodecamp, dynamiq courses. My repositories include:  
+I frequently post my attempts from codebasics, freecodecamp, dynamiq courses. My repositories include:  
 
 RAG, AI Financial Agents & ReAct Agents, Time-series, recommendation system, langchain, classification, regression, dimension reduction, clustering, natural language processing, computer vision, reinforcement learning with q learning, text generation, bayesian, hidden markov, data visualisation & python fundamentals.
 
